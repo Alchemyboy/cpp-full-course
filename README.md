@@ -1,2 +1,2 @@
-# c--full-course
+# cpp-full-course
 A code repo for c++
