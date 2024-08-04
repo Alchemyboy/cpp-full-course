@@ -5,7 +5,7 @@ int main(){
     cout<<endl;
     int x = 4;
     cout<<x<<endl;         // POST - Increement operator ( increase by 1 i.e + 1 )   
-    cout<<x++<<endl;
+    cout<<x++<<endl;       // x = x + 1 
     cout<<x<<endl;
     
     cout<<"PRE - Increement operator";
